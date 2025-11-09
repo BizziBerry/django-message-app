@@ -226,7 +226,7 @@ POST	/send-message/	AJAX отправка сообщения
 Этот проект распространяется под лицензией MIT. Смотрите файл LICENSE для подробностей.
 
 ## 👨‍💻 Автор
-GitHub: @your-username
+GitHub: [@your-username](https://github.com/BizziBerry)
 
 ## 🙏 Благодарности
 Команда Django за отличный фреймворк
