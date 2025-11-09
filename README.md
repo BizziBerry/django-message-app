@@ -216,11 +216,14 @@ POST	/send-message/	AJAX отправка сообщения
 
 ## 🤝 Вклад в проект
 Мы приветствуем вклад в развитие проекта!
-Форкните репозиторий
-Создайте feature ветку (git checkout -b feature/AmazingFeature)
-Закоммитьте изменения (git commit -m 'Add some AmazingFeature')
-Запушьте ветку (git push origin feature/AmazingFeature)
-Откройте Pull Request
+1. **Форкните репозиторий**
+2. **Создайте feature ветку**  
+   `git checkout -b feature/AmazingFeature`
+3. **Закоммитьте изменения**  
+   `git commit -m 'Add some AmazingFeature'`
+4. **Запушьте ветку**  
+   `git push origin feature/AmazingFeature`
+5. **Откройте Pull Request**
 
 ## 📄 Лицензия
 Этот проект распространяется под лицензией MIT. Смотрите файл LICENSE для подробностей.
