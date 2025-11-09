@@ -209,10 +209,10 @@ POST	/send-message/	AJAX отправка сообщения
 
 ## 🚀 Развертывание
 ### Для продакшн окружения:
-Настройте PostgreSQL вместо SQLite
-Установите DEBUG = False
-Настройте статические файлы через collectstatic
-Используйте WSGI сервер (Gunicorn + Nginx)
+1. Настройте PostgreSQL вместо SQLite
+2. Установите DEBUG = False
+3. Настройте статические файлы через collectstatic
+4. Используйте WSGI сервер (Gunicorn + Nginx)
 
 ## 🤝 Вклад в проект
 Мы приветствуем вклад в развитие проекта!
